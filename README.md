@@ -1,7 +1,7 @@
 **PONG IMPLEMENTATION**
 
 
-Acknowledgements
+Acknowledgements:
    This project was developed with the help of guide https://www.youtube.com/watch?v=vVGTZlnnX3U
 
 My Personal Features Include:
